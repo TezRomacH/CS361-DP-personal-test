@@ -1,1 +1,3 @@
 Welcome to course «CS361 Design patterns»!
+
+Why do we have to create so useless commits?
